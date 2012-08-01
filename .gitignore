@@ -25,3 +25,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# SwarleyScripts
+/Encryption/TrueCrypt/password_components.txt
